@@ -1,0 +1,17 @@
+{
+  "name": "nodedb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jest": "^21.2.1",
+    "mongodb": "^2.2.33"
+  }
+}
